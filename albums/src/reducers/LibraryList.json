@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "title": "Webpack",
+    "description": "Webpack is a module bundler. It packs CommonJs"
+  },
+  {
+    "id": 1,
+    "title": "React",
+    "description": "React makes it painless to create Interactive UIs"
+  },
+  {
+    "id": 2,
+    "title": "Redux",
+    "description": "Redus is predictable state container in Javascript"
+  },
+  {
+    "id": 3,
+    "title": "Redux-Thunk",
+    "description": "aaaaa"
+  }
+]
