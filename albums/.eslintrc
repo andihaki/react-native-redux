@@ -1,7 +1,0 @@
-{
-  "extends": "rallycoding",
-  "rules": {
-    "quotes": ["error", "double"],
-    "arrow-body-style": 0
-  }
-}
